@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "clsx": "^2.1.1",
+    "lucide-react": "^0.576.0",
+    "tailwind-merge": "^3.5.0"
+  },
+  "devDependencies": {
+    "@types/dom-speech-recognition": "^0.0.7",
+    "@types/node": "^25.3.3",
+    "@types/react": "^19.2.14",
+    "@types/react-dom": "^19.2.3",
+    "vite-tsconfig-paths": "^6.1.1"
+  }
+}
