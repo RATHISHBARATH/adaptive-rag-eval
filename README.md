@@ -176,8 +176,4 @@ python backend/scripts/batch_predict.py
 
 This script executes the RAG pipeline over the provided queries and outputs a CSV file strictly formatted with `Query` and `Assessment_url` columns.
 
----
-
 *Designed and developed by Rathish Barath for the SHL GenAI Assessment.*
-
-```
