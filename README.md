@@ -45,8 +45,7 @@ This project implements a complete end-to-end RAG pipeline:
 ### 🗂️ Folder Structure
 ```text
 shl-assessment-recommender/
-├── backend/
-│   ├── src/                 # FastAPI routes, services, and core logic
+│── src/                 # FastAPI routes, services, and core logic
 │   ├── scripts/             # Data scraping and evaluation scripts
 │   └── requirements.txt     # Python dependencies
 ├── frontend/                # React SPA (Vite, Tailwind)
@@ -177,4 +176,5 @@ python backend/scripts/batch_predict.py
 This script executes the RAG pipeline over the provided queries and outputs a CSV file strictly formatted with `Query` and `Assessment_url` columns.
 
 *Designed and developed by Rathish Barath for the SHL GenAI Assessment.*
+
 
