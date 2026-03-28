@@ -58,8 +58,8 @@ shl-assessment-recommender/
 
 ### 1. Clone & Install Backend
 ```bash
-git clone https://github.com/RATHISHBARATH/shl-assessment-recommender.git
-cd shl-assessment-recommender
+git clone https://github.com/RATHISHBARATH/adaptive-rag-eval.git
+cd adaptive-rag-eval
 
 # Backend
 cd src
